@@ -12,7 +12,7 @@ public class MensalidadeFeminino {
             } else if (idade <= 50) {
                 setMensalidade(65.0);
             } else {
-                setMensalidade(50.0);
+                setMensalidade(60.0);
             }
         } else {
             System.out.println("Sexo inválido.");
